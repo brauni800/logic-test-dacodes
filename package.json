@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brauni800/logic-test-dacodes.git"
+  },
   "author": "Braulio Betancourt <braulio.1796@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brauni800/logic-test-dacodes/issues"
+  },
+  "homepage": "https://github.com/brauni800/logic-test-dacodes#readme"
 }
